@@ -1,5 +1,2 @@
 # python-trening
 
-
-
-## proejto
